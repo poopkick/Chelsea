@@ -1,0 +1,39 @@
+header{
+  border:10px solid #034694;
+  padding:20px;
+}
+nav {
+  border-right:10px solid #034694;
+  width:50px;
+  height:auto;
+  float:left;
+}
+nav ol{
+  list-style:none;
+}
+article{
+  float:left;
+  padding-left : 20px;
+}
+.container{
+  padding-top:10px;
+}
+#control{
+  margin-bottom:40px;
+}
+table{
+  border:5px solid #034694;
+  text-align: center;
+}
+td{
+  padding:5px;
+  border:1px solid #034694;
+}
+#table_left{
+  background-color:#034694;
+  width=25%;
+  color:white;
+}
+hr{
+  background-color: #034694;
+}
